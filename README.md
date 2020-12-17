@@ -1,9 +1,10 @@
-# Notas:
+# Node - Aplicación de turnos:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Aplicación de turnos con socket en Node realizada en la sección 15 del curso.
+La sección se enfoca en los siguientes temas:
 
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
-npm install
-```
+1. Aplicar sockets en un proyecto real
+2. Clases del ES6
+3. Asignar tickets
+4. Leer Tickets
+5. Notificaciones
