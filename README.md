@@ -1,4 +1,4 @@
-# Node - Aplicación de turnos:
+# Node - Aplicación de turnos
 
 Aplicación de turnos con socket en Node realizada en la sección 15 del curso.  
 La sección se enfoca en los siguientes temas:
